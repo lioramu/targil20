@@ -1,0 +1,49 @@
+ul{
+    list-style-type: none;
+}
+body{
+    font-family: system-ui;
+    align-content: center;
+    text-align: center;
+}
+
+li{ 
+    border-radius: 10px;
+
+    text-align: left;
+    width: 250px;
+    height: 32px;
+    background-size: 24px 24px;
+    background-position: 5px right 2px left;
+    padding-left: 33px;
+    padding-top: 10px;
+    border-style: solid;
+    border-color: #2c3e50;
+    border-width: 1px;
+    background-color: #483D8B;
+    color: white;
+    margin-top: 5px;
+    margin-bottom:5px ;
+
+}
+.not-found{
+    background-color: #FF8C00;
+    border-radius: 10px;
+
+}
+
+
+input {
+    width: 10%;
+    border-radius: 10px;
+    border: 1px solid #ada9a9;
+    padding: 1% 6%;
+    margin: 1% 1%;
+    background-image: url(https://www.pngarea.com/pngm/109/1164446_searchicon-png-search-icon-png-download.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    outline: 0;
+    background-position: 12px;
+    background-size: 16px;
+  
+}
